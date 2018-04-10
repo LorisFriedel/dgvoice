@@ -4,8 +4,8 @@ import (
 	"flag"
 	"fmt"
 
-	"github.com/bwmarrin/dgvoice"
-	"github.com/bwmarrin/discordgo"
+	"github.com/LorisFriedel/dgvoice"
+	"github.com/LorisFriedel/discordgo"
 )
 
 func main() {

@@ -5,8 +5,8 @@ import (
 	"fmt"
 	"io/ioutil"
 
-	"github.com/bwmarrin/dgvoice"
-	"github.com/bwmarrin/discordgo"
+	"github.com/LorisFriedel/dgvoice"
+	"github.com/LorisFriedel/discordgo"
 )
 
 func main() {

@@ -18,7 +18,7 @@ import (
 	"strconv"
 	"sync"
 
-	"github.com/bwmarrin/discordgo"
+	"github.com/LorisFriedel/discordgo"
 	"layeh.com/gopus"
 )
 
